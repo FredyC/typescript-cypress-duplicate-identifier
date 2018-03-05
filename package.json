@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/jest": "22.1.4",
+    "@types/node": "9.4.6",
+    "cypress": "2.1.0",
+    "jest": "22.4.2",
+    "typescript": "2.8.0-dev.20180302"
+  },
+  "scripts": {
+    "tsc": "tsc --noEmit"
+  }
+}
